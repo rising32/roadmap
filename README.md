@@ -16,13 +16,16 @@
 
 ## Hosting
 
+## Command Line
+
+## Version Control
+
+## Sass
+
 ## JavaScript
 
 - fundamentals
 - DOM
 
-## Command line
-
-## Version control
 
 ## Databases
