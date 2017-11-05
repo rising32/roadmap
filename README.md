@@ -11,21 +11,32 @@
 
 ## CSS
 
-- selector
+- selectors
+ - tags
+ - classes
+ - ids
+ - pseudo
 - property
+- value
 
 ## Hosting
 
 ## Command Line
 
-## Version Control
+## Version Control (Git)
+
+- repository
+- commit
+- push
+- pull
 
 ## Sass
 
 ## JavaScript
 
-- fundamentals
+- programming fundamentals
 - DOM
 
+## Task Running
 
 ## Databases
