@@ -1,6 +1,14 @@
 # Roadmap of Web Development
 
-## Browsers, text editors
+## Browsers
+
+- chrome, firefox, opera, safari, edge
+- devtools
+
+## Text editors
+
+- notepad
+- notepad++, visual studio code, atom, brackets, sublime
 
 ## HTML
 
@@ -23,6 +31,13 @@
 
 ## Command Line
 
+- moving betweend directories
+- creating files and directories
+- deleting
+- copying
+- moving
+- permissions
+
 ## Version Control (Git)
 
 - repository
@@ -32,11 +47,19 @@
 
 ## Sass
 
+- variables
+- nesting
+- mixins
+
 ## JavaScript
 
 - programming fundamentals
 - DOM
 
-## Task Running
+## Automation
+
+## Content Management
+
+- WordPresss
 
 ## Databases
