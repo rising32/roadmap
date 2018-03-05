@@ -1,65 +1,122 @@
 # Roadmap of Web Development
 
-## Browsers
+## Getting Started
 
-- chrome, firefox, opera, safari, edge
-- devtools
+### Operating System
 
-## Text editors
+What operating system your computer runs on.
 
-- notepad
-- notepad++, visual studio code, atom, brackets, sublime
+- Mac, Windows, Linux
 
-## HTML
+### Browsers
 
-- tags
-- elements
-- attributes
-- attribute values
+Where you view a website.
 
-## CSS
+- Chrome, Firefox, Safari, Edge, Internet Explorer
+- DevTools
 
-- selectors
- - tags
- - classes
- - ids
- - pseudo
-- property
-- value
+### Text editors
 
-## Hosting
+Where you edit a website.
 
-## Command Line
+- Notepad or TextEdit
+- Notepad++, Visual Studio Code, Atom, Brackets, Sublime, Coda
 
-- moving betweend directories
-- creating files and directories
-- deleting
-- copying
-- moving
-- permissions
+### The Internet
 
-## Version Control (Git)
+How computers communicate with each other.
 
-- repository
-- commit
-- push
-- pull
+- Domains
+- Servers
+- IP Addresses
+- URLs
+- HTTP protocol
 
-## Sass
+## Front End
 
-- variables
-- nesting
-- mixins
+### HTML
 
-## JavaScript
+Structure: how a website is structured.
 
-- programming fundamentals
-- DOM
+- Syntax and Terminology: tags, elements, attributes, and attribute values 
+- Concepts: block vs. inline elements
+- Formatting
+- tables, forms, lists, headings
+- Metadata
 
-## Automation
+### CSS
 
-## Content Management
+Style: how a website looks.
 
-- WordPresss
+- Syntax and Terminology: selectors and properties, tags, classes, ids, pseudo
+- Positioning: absolute, relative, fixed, static
+- Box model
+- Padding and margins
+- Flex, float
+- Inheritance
+- Colors, text formatting
+- CSS Animations
 
-## Databases
+### JavaScript
+
+Interactivity: what a website can do.
+
+- Programming basics
+
+## System Administration
+
+### Hosting
+
+- Dedicated servers vs. VPS
+
+### Command Line
+
+- Windows or UNIX-like (Mac and Linux)
+- Moving betweend directories
+- Creating files and directories
+- Deleting files and directories
+- Copying files and directories
+- Moving files and directories
+- Permissions
+
+### Version Control
+
+How to maintain changes to your project.
+
+- Terminology: Repository, commit, push, pull, branch, merge
+- GitHub, GitLab, BitBucket
+
+### Workflow and Automation
+
+- Node.js
+- Gulp and Grunt
+- Webpack
+
+### Sass
+
+- Terminology and Concepts: Variables, nesting, mixins
+
+## Backend
+
+### Server
+
+Web server software.
+
+- Apache or nginx
+
+### PHP
+
+A backend programming language.
+
+- Connecting to a database
+
+### Databases
+
+Where data is stored.
+
+- MySQL
+
+### Content Management
+
+- Content management system: WordPress
+- Static site generators: Jekyll
