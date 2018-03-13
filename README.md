@@ -72,7 +72,7 @@ Interactivity: what a website can do.
 ### Command Line
 
 - Windows or UNIX-like (Mac and Linux)
-- Moving betweend directories
+- Moving between directories
 - Creating files and directories
 - Deleting files and directories
 - Copying files and directories
